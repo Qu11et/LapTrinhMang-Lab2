@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\bai 2 lab 2\bai 2 lab 2\bin\Debug\bai 2 lab 2.exe.config
+C:\Users\Admin\source\repos\bai 2 lab 2\bai 2 lab 2\bin\Debug\bai 2 lab 2.exe
+C:\Users\Admin\source\repos\bai 2 lab 2\bai 2 lab 2\bin\Debug\bai 2 lab 2.pdb
+C:\Users\Admin\source\repos\bai 2 lab 2\bai 2 lab 2\obj\Debug\bai 2 lab 2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\bai 2 lab 2\bai 2 lab 2\obj\Debug\bai_2_lab_2.Properties.Resources.resources
+C:\Users\Admin\source\repos\bai 2 lab 2\bai 2 lab 2\obj\Debug\bai 2 lab 2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\bai 2 lab 2\bai 2 lab 2\obj\Debug\bai 2 lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\bai 2 lab 2\bai 2 lab 2\obj\Debug\bai 2 lab 2.exe
+C:\Users\Admin\source\repos\bai 2 lab 2\bai 2 lab 2\obj\Debug\bai 2 lab 2.pdb
+C:\Users\Admin\source\repos\bai 2 lab 2\bai 2 lab 2\obj\Debug\bai_2_lab_2.bai2.resources
+C:\Users\Admin\source\repos\bai 2 lab 2\bai 2 lab 2\obj\Debug\bai_2_lab_2.bai4.resources
