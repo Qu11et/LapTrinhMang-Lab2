@@ -1,0 +1,22 @@
+[
+    {
+        "TenPhim": "Đào, phở và piano",
+        "GiaVeChuan": 45000,
+        "PhongChieu": [1, 2, 3]
+    },
+    {
+        "TenPhim": "Mai",
+        "GiaVeChuan": 100000,
+        "PhongChieu": [2, 3]
+    },
+    {
+        "TenPhim": "Gặp lại chị bầu",
+        "GiaVeChuan": 70000,
+        "PhongChieu": [1]
+    },
+    {
+        "TenPhim": "Tarot",
+        "GiaVeChuan": 90000,
+        "PhongChieu": [3]
+    }
+]

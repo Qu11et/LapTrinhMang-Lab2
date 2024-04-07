@@ -53,6 +53,7 @@
             C = new Label();
             DatVe = new Button();
             Trong = new Label();
+            selectDanhGia = new Button();
             SuspendLayout();
             // 
             // label1
@@ -295,11 +296,22 @@
             Trong.TabIndex = 7;
             Trong.Text = "Trống";
             // 
+            // selectDanhGia
+            // 
+            selectDanhGia.Location = new Point(35, 248);
+            selectDanhGia.Name = "selectDanhGia";
+            selectDanhGia.Size = new Size(200, 22);
+            selectDanhGia.TabIndex = 8;
+            selectDanhGia.Text = "Đánh giá";
+            selectDanhGia.UseVisualStyleBackColor = true;
+            selectDanhGia.Click += selectDanhGia_Click;
+            // 
             // cBai05
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(257, 263);
+            ClientSize = new Size(257, 281);
+            Controls.Add(selectDanhGia);
             Controls.Add(Trong);
             Controls.Add(DatVe);
             Controls.Add(C);
@@ -361,5 +373,6 @@
         private System.Windows.Forms.Label C;
         private System.Windows.Forms.Button DatVe;
         private System.Windows.Forms.Label Trong;
+        private Button selectDanhGia;
     }
 }
